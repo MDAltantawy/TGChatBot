@@ -3,15 +3,15 @@
 <h4 align="center">A Powerful ChatBot For Pros😜</h4>
 <h4 align="center">Easy To Deploy</h4>
 
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/CyberBoyAyush/TGChatBot)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/CyberBoyAyush/TGChatBot)
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/MDAltantawy/TGChatBot)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/MDAltantawy/TGChatBot)
 
 # Deploy
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CyberBoyAyush/TGChatBot/tree/main)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MDAltantawy/TGChatBot/tree/main)
 
 # Normal Way
 ```python3
-git clone https://github.com/CyberBoyAyush/TGChatBot
+git clone https://github.com/MDAltantawy/TGChatBot
 cd TGChatBot
 pip install -r requirements.txt
 # Make A file Named local_config and put all your values There and Then Run the bot.
